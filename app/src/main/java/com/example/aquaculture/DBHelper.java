@@ -11,7 +11,7 @@ public class DBHelper extends SQLiteOpenHelper {
     public static final String TABLE_GENERAL = "General";
     public static final String TABLE_POOLS = "Pools";
     public static final String TABLE_TYPES_FEED = "Types_feed";
-    public static final String KEY_NUMBER_OF_POOLS = "number_of_pools"; // INT
+    public static final String KEY_NUMBER_OF_POOLS = "number_of_pools"; //INT
     public static final String KEY_GENERAL_FISH_MASS = "general_fish_mass"; //FLOAT
     public static final String KEY_FARM_POWER = "farm_power"; //FLOAT
     public static final String KEY_FARM_START_TIME = "farm_start_time"; //DATE

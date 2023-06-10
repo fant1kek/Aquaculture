@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Aquaculture</string>
+    <string name="btnMainMenu">Главное меню</string>
+    <string name="btnFeeding">Кормление</string>
+    <string name="btnMovingFish">Перемещение рыбы</string>
+    <string name="btnHydrochemistry">Гидрохимия</string>
+    <string name="btnFeeds">Комбикорм</string>
 </resources>
