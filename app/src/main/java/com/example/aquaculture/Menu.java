@@ -35,7 +35,7 @@ public class Menu extends AppCompatActivity {
                         intent = new Intent(Menu.this, MainMenu.class);
                         break;*/
                     case R.id.btnFeeding:
-                        intent = new Intent(Menu.this, Feeding.class);
+                        intent = new Intent(Menu.this, Feeding1.class);
                         break;
                     /*case R.id.btnMovingFish:
                         intent = new Intent(Menu.this, MovingFish.class);

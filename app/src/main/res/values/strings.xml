@@ -5,4 +5,18 @@
     <string name="btnMovingFish">Перемещение рыбы</string>
     <string name="btnHydrochemistry">Гидрохимия</string>
     <string name="btnFeeds">Комбикорм</string>
+    <string name="btnNext">Далее</string>
+    <string name="btnConfirm">Подтвердить</string>
+    <string name="btnDownload">Скачать данные</string>
+    <string name="enter">Введите</string>
+    <string name="feeding">Кормление</string>
+    <string name="poolNumber">Номер бассейна:</string>
+    <string name="fishWeight">Масса рыбы:</string>
+    <string name="poolVolume">Объем бассейна:</string>
+    <string name="typeFeed">Вид корма:</string>
+    <string name="averageFishWeight">Средняя навеска рыбы:</string>
+    <string name="feedName">Название корма:</string>
+    <string name="feedRatio">Кормовой коэффициент:</string>
+    <string name="feedingFrequency">Частота кормления:</string>
+    <string name="timeChange">Время изменения:</string>
 </resources>

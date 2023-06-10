@@ -21,7 +21,8 @@
             </intent-filter>
         </activity>
         <activity android:name="com.example.aquaculture.MainActivity" />
-        <activity android:name="com.example.aquaculture.Feeding" />
+        <activity android:name="com.example.aquaculture.Feeding1" />
+        <activity android:name="com.example.aquaculture.Feeding2" />
     </application>
 
 </manifest>
